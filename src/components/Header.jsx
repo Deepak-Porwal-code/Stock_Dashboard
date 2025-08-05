@@ -59,11 +59,11 @@ const Header = () => {
             {/* User Profile */}
             <div className="hidden md:flex items-center space-x-3 pl-4 border-l border-gray-200">
               <div className="text-right">
-                <p className="text-sm font-medium text-gray-900">John Doe</p>
+                <p className="text-sm font-medium text-gray-900">Deepak Porwal</p>
                 <p className="text-xs text-gray-500">Premium Account</p>
               </div>
               <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
-                <span className="text-white text-sm font-medium">JD</span>
+                <span className="text-white text-sm font-medium">DP</span>
               </div>
             </div>
           </div>
